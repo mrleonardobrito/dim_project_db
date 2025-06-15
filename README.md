@@ -101,6 +101,6 @@ _Os tempos podem variar conforme a máquina, volume de dados e cache do banco._
 1. **Clone este repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/datawarehouse-global-retail.git
-cd datawarehouse-global-retail
+git clone https://github.com/seu-usuario/dim_project_db.git
+cd dim_project_db
 ```
